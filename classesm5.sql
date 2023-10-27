@@ -1,3 +1,4 @@
+
 SELECT class
 FROM Courses
 GROUP BY class
